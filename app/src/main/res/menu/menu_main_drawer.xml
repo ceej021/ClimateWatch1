@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_weather_forecast"
+            android:title="WEATHER FORECAST" />
+        <item
+            android:id="@+id/nav_news_and_updates"
+            android:title="NEWS AND UPDATES" />
+        <item
+            android:id="@+id/nav_interactive_radar_map"
+            android:title="INTERACTIVE RADAR MAP" />
+    </group>
+
+</menu>
